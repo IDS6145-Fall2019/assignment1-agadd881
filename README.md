@@ -2,7 +2,7 @@
 (remove: **text between brackets to be removed**)
 
 > * Participant name: Allison Gadd
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Project Title: Entrance and Holding Area of a Subway Station
 
 # General Introduction
 
@@ -16,6 +16,8 @@ The second part of the assignment explores data analysis. Data analysis and visu
 # Part 1: Designing a Model - Subway System
 
 (remove: States your motivation clearly: why is it important / interesting to solve this problem?)
+
+The problem is to look at the entrance of a subway station. It is important to make sure that there are enough automated ticket kiosks and automated turnstiles that no build up of people occurs at the entrance. Next is to look at the holding area to make sure it can accommodate the number of people through the turnstiles but are still waiting for the needed train. To make the wait bearable there would need to be benches and restrooms for those in transit. It is important to make sure that the trains come in a timely manner so that the holding area does not become over crowded. 
 
 (remove: Add real-world examples, if any)
 
