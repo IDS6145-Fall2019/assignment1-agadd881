@@ -30,6 +30,18 @@ The problem is to look at the entrance of a subway station. It is important to m
 
 (remove: You should start by specifying a set of requirements. I specified a topic a Subway escalator. What exactly does that mean - practice formulating your own set of requirements and an experiment. Define problems cities face and hypothesize how a subway system could help alleviate these issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
+* There needs to be enough turnstiles to be able to get 100 people per minute through the entrance.
+
+* There needs to be at least one turnstile that is handicap accessible.
+
+* The holding area must be large enough to accommodate 2000 people at a time.
+
+* There must be restrooms for various users: wheelchair users, parents, and companion stalls.
+
+* On average a train should be through every 10 minutes in order to pick up new passengers to help clear out the holding area.
+
+* If the ticket kiosks are automated, there must be at least one with braille access.
+
 ## (Part 1.2) Subway (My Problem) Model **(10%)**
 
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
