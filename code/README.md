@@ -1,4 +1,3 @@
 ## Smart City (My Problem) Model
 
-(remove:  Starting coding framework for the (insert your exact problem here.)
-(remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
+Code in file ENTER.py It includes 4 classes for the subway entrance problem: people, ticket kiosk, turnstile, and restrooms. Within each class the variables are defined as True for the moment. Each class also has at least one function that was called in the main part of the program.
