@@ -4,7 +4,7 @@
 
 (remove: use images!!!)
 
-![Example Object Diagram](https://github.com/IDS6145-Fall2019/assignment1-agadd881/tree/master/images/enter_object_diagram.png)
+![Example Object Diagram](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/enter_object_diagram.png)
 
 (remove: More decription)
 (remove: Maybe a second or third diagram to highlight a point or aspect)
