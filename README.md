@@ -99,9 +99,9 @@ Find a datasource that looks at part of this model - subway stations locations /
 
 ## (Part 3.2) -  Plotting 2D Random Number Generators **(15%)**
 
-This portion of the assignment looks at generating random numbers in Python and understanding how to properly plot them. Plot two different random numbers, pseudo random and quasi random, for five different N values. There should be 10 subplots, all properly formatted 2D plots. Note, each of the N points will have two coordinates, an x and a y, therefore you will need to generate two random numbers for each point. You should replace the image with your results in a simalar format. Discuss how the patterns differ. Feel free to change the N values from the suggested N values in the image to state your case.
+Based on the figure below it can be seen that as N increased, the area is covered more fully. Another thing to note in the figure is that the pseudo-random numbers have more blank spaces as the numbers are more 'random', while the quasi-random figures show that it tries to fill in the blank space more.
 
-![Image of 2d template City](images/2Dtemplate.png)
+![Image of 2d template City](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Random_Num.png)
 
 
 ## (Part 3.3) -  Plotting 1D Random Distributions **(15%)**
