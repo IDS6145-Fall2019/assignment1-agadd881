@@ -20,8 +20,9 @@ In the real world this issue of pedestrian conjestion actually led to Boston dec
 
 Brooks, R.B. 'History of the Boston Subway: The First Subway in America.' History of Massachusett.org. March 16, 2017.
 
+![Image of Subway City System](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/subway_turnstiles.png)
 
-![Image of Subway City System](images/subway_model.png)
+![Image of Subway City System](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/busy_subway.png)
 
 ## (Part 1.1): Requirements (Experimental Design) **(10%)**
 
