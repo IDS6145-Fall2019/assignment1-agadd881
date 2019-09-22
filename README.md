@@ -1,4 +1,4 @@
-# Assignment 1 - Designing Models and Analyzing Data (Template)
+# Assignment 1 - Designing Models and Analyzing Data 
 
 > * Participant name: Allison Gadd
 > * Project Title: Entrance and Holding Area of a Subway Station
@@ -14,13 +14,11 @@ The second part of the assignment explores data analysis. Data analysis and visu
 
 # Part 1: Designing a Model - Subway System
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-
 The problem is to look at the entrance of a subway station. It is important to make sure that there are enough automated ticket kiosks and automated turnstiles that no build up of people occurs at the entrance. Next is to look at the holding area to make sure it can accommodate the number of people through the turnstiles but are still waiting for the needed train. To make the wait bearable there would need to be benches and restrooms for those in transit. It is important to make sure that the trains come in a timely manner so that the holding area does not become over crowded. 
 
-(remove: Add real-world examples, if any)
+In the real world this issue of pedestrian conjestion actually led to Boston deciding that they needed a subway station. The engineers decided to model the system as a mix of London's underground tubes, and Paris' open-exacuation method of design.In the end it was determined that the subway didn't really help with the foot traffic, but it did help eleviate the congestion due to car traffic.
 
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+Brooks, R.B. 'History of the Boston Subway: The First Subway in America.' History of Massachusett.org. March 16, 2017.
 
 
 ![Image of Subway City System](images/subway_model.png)
