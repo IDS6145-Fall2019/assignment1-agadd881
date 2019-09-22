@@ -1,5 +1,4 @@
 # Assignment 1 - Designing Models and Analyzing Data (Template)
-(remove: **text between brackets to be removed**)
 
 > * Participant name: Allison Gadd
 > * Project Title: Entrance and Holding Area of a Subway Station
