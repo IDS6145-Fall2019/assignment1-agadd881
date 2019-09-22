@@ -57,9 +57,9 @@ The problem is to look at the entrance of a subway station. It is important to m
 
 
 ## (Part 1.4) Subway City (My Problem) Model **(10%)**
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
-You are expected to create the python files - the code should run without errors, create and object(s) for your system, but not provide function detail.
+[**Code template**](code/README.md) - 
 
+Code in file ENTER.py It includes 4 classes for the subway entrance problem: people, ticket kiosk, turnstile, and restrooms. Within each class the variables are defined as True for the moment. Each class also has at least one function that was called in the main part of the program.
 
 
 ## (Part 1.5) Specifying the Inputs to a System **(10%)**
