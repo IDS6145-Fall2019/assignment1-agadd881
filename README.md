@@ -69,12 +69,7 @@ Code in file ENTER.py It includes 4 classes for the subway entrance problem: peo
 
 ## (Part 1.5) Specifying the Inputs to a System **(10%)**
 
-* Specify the independent and dependent input variables of your subway esclator model
-* Specify where the data will come from measured subset of real data (empirical) or synthetic data
-* What kind of statistics are important to capture this input data
-* How do you plan to analyze the output of your model?
-* What ways will you visualize your data - charts, and graphs you will create?
-* What clever way will you visualize your output with a useful infographic?
+The inputs to the system are the people entering the turnstiles. The independent variable are the people coming into the system, while the dependent variable is the accessibility of the individual (whether they are ambulatory or wheelchair user so would need to use a different type of turnstile. Data could be used from past data of turnstile entrances in the NYC subway entrances as was looked at in part 3.1. The average amount of people for the time and day would be useful to note when peak hours or days are. The output to the system would be the individuals getting on their train and leaving the holding area. I would visualize the data by using charts. A histogram for the time versus user could help show peak times of the day based on the turnstiles, and key subway trains based on which has more people leaving on them. 
 
 
 
