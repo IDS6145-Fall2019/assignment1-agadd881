@@ -96,8 +96,7 @@ Find a datasource that looks at part of this model - subway stations locations /
 * Visualize the raw data - visualize a few critical aspects of the data to better describe what it is, what it is showing, and why its useful to your system.
 * Calculate and plot some summary statistics that better describe the data.
 
-(Add your plots and visualization here)
-(Put your data into the data directory)
+![Image of Real Data](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Data.png)
 
 
 ## (Part 3.2) -  Plotting 2D Random Number Generators **(15%)**
