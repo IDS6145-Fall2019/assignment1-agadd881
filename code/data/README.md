@@ -1,0 +1,1 @@
+This is the raw data for NYC Turnstiles in 2017 just looking at the data for 59 St so that the data would upload. Pandas is used to upload the data into python and then to sort the data by date and time. The mean people through the turnstile is determined for each date/
