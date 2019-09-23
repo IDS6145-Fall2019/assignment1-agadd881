@@ -58,6 +58,8 @@ The use case diagram looks at how the travelers uses the entance system around t
 
 The simulation type for getting the travelers through the ticket kiosks and turnstiles would be a discrete simulation. The system is a basic queuing type system where the traveler goes through the line/entrance and then waits in the holding area until their train arrives. This wait time would be a function of how early the traveler got to the station, and if their were any delays to the train route. If we look at needed number of turnstiles we could make the hypothesis that we would need 5 turnstiles with at least one being wheelchair accessible in order to meet the requirement of through put. This would be easy to note by changing the amount of These numbers would vary based on the popularity of the subway station and how many people each would have to accommodate.
 
+![Image of Basic Idea](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Basic_sim.png)
+
 
 ## (Part 1.4) Subway City (My Problem) Model **(10%)**
 [**Code template**](code/README.md) - 
@@ -66,8 +68,6 @@ Code in file ENTER.py It includes 4 classes for the subway entrance problem: peo
 
 
 ## (Part 1.5) Specifying the Inputs to a System **(10%)**
-
-![Image of Basic Idea](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Basic_sim.png)
 
 * Specify the independent and dependent input variables of your subway esclator model
 * Specify where the data will come from measured subset of real data (empirical) or synthetic data
