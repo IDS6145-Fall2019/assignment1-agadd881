@@ -108,6 +108,10 @@ Based on the figure below it can be seen that as N increased, the area is covere
 
 ## (Part 3.3) -  Plotting 1D Random Distributions **(15%)**
 
-Now, choose three different distributions to plot in 1D, or as a histogram. Choose a pseudo-random generator and generate three different distributions. Example distributions are Uniform (part 8), Normal, Exponential, Poisson, and Chi-Squared, but feel free to use any three distributions of your choice. Again, plot each distribution for five different Ns. This will result in 15 different subplots, formatted similar to the image in Part 8. Include your properly formmated 1D plots below and breifly describe what we are looking at and how things change as N is changed.
+Based on the psuedo-random distibutions, it can be seen that the distribution becomes closer to the 'actual' distribution as N gets larger. 
 
-Repeat the above using a quasi-random generator. Discuss the similarities and differences.
+![Image of PRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/PRan_Distributions.png)
+
+As for the quasi-random distributions in the figures below, it can be seen that the actual distribution fills up better than the psuedo-random distribution.
+
+![Image of PRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/QRan_Distributions.png)
