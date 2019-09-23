@@ -67,7 +67,8 @@ Code in file ENTER.py It includes 4 classes for the subway entrance problem: peo
 
 ## (Part 1.5) Specifying the Inputs to a System **(10%)**
 
-(remove the below points once ideas are satisfied)
+![Image of Basic Idea](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Basic_sim.png)
+
 * Specify the independent and dependent input variables of your subway esclator model
 * Specify where the data will come from measured subset of real data (empirical) or synthetic data
 * What kind of statistics are important to capture this input data
