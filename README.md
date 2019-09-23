@@ -26,7 +26,7 @@ Brooks, R.B. 'History of the Boston Subway: The First Subway in America.' Histor
 
 ## (Part 1.1): Requirements (Experimental Design) **(10%)**
 
-(remove: You should start by specifying a set of requirements. I specified a topic a Subway escalator. What exactly does that mean - practice formulating your own set of requirements and an experiment. Define problems cities face and hypothesize how a subway system could help alleviate these issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+Requirements for an entrance to a subway station where there are ticket kiosks, turnstiles, and a holding area before travelers get on their train.
 
 * There needs to be enough turnstiles to be able to get 100 people per minute through the entrance.
 
@@ -42,13 +42,17 @@ Brooks, R.B. 'History of the Boston Subway: The First Subway in America.' Histor
 
 ## (Part 1.2) Subway (My Problem) Model **(10%)**
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+* [**Object Diagram**](model/object_diagram.md) 
+The Enterance includes the people, ticket kiosks, turnstiles, and a holding area.
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Class Diagram**](model/class_diagram.md) 
+The people, turnstiles, ticket kiosks, and restrooms can be viewed in a break down of their accessibility.
+
+* [**Behavior Diagram**](model/behavior_diagram.md) 
+The activity diagram steps through how a traveler would go to the correct ticket kiosk to check or buy ticketts, and then would proceed to the correct turnstile based on the accessibilities that they require.
+
+* [**Agent / User case**](model/agent_usecase_diagram.md) 
+The use case diagram looks at how the travelers uses the entance system around them.
 
 ## (Part 1.3) Subway (My Problem) Simulation **(10%)**
 
