@@ -88,30 +88,26 @@ Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortabl
 
 ## (Part 3.1) - Real Data **(10%)**
 
-Find a datasource that looks at part of this model - subway stations locations / escalator number, heights, widths / volume of passangers - ridership numbers   (*fits* - we are pretty loose here, it can be anything.)
-
-* Write up a paragraph that describes the data and how it fits into your system.
-* Load the data into Python
-* Calculate a few useful statistic on the data - keep it simple- STD, means, etc..., this is just designed * to get used to working with real data. Explain the insights you derive from these statistics.
-* Visualize the raw data - visualize a few critical aspects of the data to better describe what it is, what it is showing, and why its useful to your system.
-* Calculate and plot some summary statistics that better describe the data.
+A dataset for entrances and exits for NYC turnsitles in a given year was found. Based on the size of the file, I just looked at the subway location for 59 St. The data was based per day at 5 different times in the day. Therefore once the data was loaded into python it was sorted based on the date and the mean was determined and graphed.
 
 ![Image of Real Data](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Data.png)
+
+ The above image shows the tunstile entrances for 59 St in NYC subway station for the year 2017. The mean values per day was plotted. For the most part the use of the station is uniform, however there are a couple spikes in the data. Based on this observation, the input to the system for that given entrance can be modeled as a uniform distibution. This helps validate the model in using that as an input.
 
 
 ## (Part 3.2) -  Plotting 2D Random Number Generators **(15%)**
 
-Based on the figure below it can be seen that as N increased, the area is covered more fully. Another thing to note in the figure is that the pseudo-random numbers have more blank spaces as the numbers are more 'random', while the quasi-random figures show that it tries to fill in the blank space more.
+Based on the figure below it can be seen that as N increased, the area is covered more fully. Another thing to note in the figure is that the pseudo-random numbers have more blank spaces as the numbers are more 'random', while the quasi-random figures show that it tries to fill in the blank space more. These graphs were created from the ran.py code.
 
 ![Image of 2d template City](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/Random_Num.png)
 
 
 ## (Part 3.3) -  Plotting 1D Random Distributions **(15%)**
 
-Based on the psuedo-random distibutions, it can be seen that the distribution becomes closer to the 'actual' distribution as N gets larger. 
+Based on the psuedo-random distibutions, it can be seen that the distribution becomes closer to the 'actual' distribution as N gets larger. These graphs were created from the distributions.py code.
 
 ![Image of PRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/PRan_Distributions.png)
 
-As for the quasi-random distributions in the figures below, it can be seen that the actual distribution fills up better than the psuedo-random distribution.
+As for the quasi-random distributions in the figures below, it can be seen that the actual distribution fills up better than the psuedo-random distribution. These graphs were created from the distributions2.py code.
 
 ![Image of QRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/QRan_Distibutions.png)
