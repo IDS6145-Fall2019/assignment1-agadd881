@@ -114,4 +114,4 @@ Based on the psuedo-random distibutions, it can be seen that the distribution be
 
 As for the quasi-random distributions in the figures below, it can be seen that the actual distribution fills up better than the psuedo-random distribution.
 
-![Image of PRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/QRan_Distributions.png)
+![Image of QRandom Distributions](https://github.com/IDS6145-Fall2019/assignment1-agadd881/blob/master/images/QRan_Distibutions.png)
