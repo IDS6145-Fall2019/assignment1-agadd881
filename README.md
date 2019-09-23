@@ -56,7 +56,7 @@ The use case diagram looks at how the travelers uses the entance system around t
 
 ## (Part 1.3) Subway (My Problem) Simulation **(10%)**
 
-(remove: Describe how you would simulate this - including type of simulation, rough details, inputs, outputs, and how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+The simulation type for getting the travelers through the ticket kiosks and turnstiles would be a discrete simulation. The system is a basic queuing type system where the traveler goes through the line/entrance and then waits in the holding area until their train arrives. This wait time would be a function of how early the traveler got to the station, and if their were any delays to the train route. If we look at needed number of turnstiles we could make the hypothesis that we would need 5 turnstiles with at least one being wheelchair accessible in order to meet the requirement of through put. This would be easy to note by changing the amount of These numbers would vary based on the popularity of the subway station and how many people each would have to accommodate.
 
 
 ## (Part 1.4) Subway City (My Problem) Model **(10%)**
